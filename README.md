@@ -7,16 +7,16 @@ Workspace com exemplo => https://adminapp--agenciamagma.myvtex.com/admin
 Formulário para buildar o projeto => https://docs.google.com/forms/d/e/1FAIpQLSfhuhFxvezMhPEoFlN9yFEkUifGQlGP4HmJQgx6GP32WZchBw/viewform
 Itens a se marcar:
 
-- [] node
-- [] react
-- [] admin
-- [] messages
-- [] pages
-- [] styles
-- [] assets
-- [] scripts
-- [] masterdata
-- [] service-worker
+- [ ] node
+- [ ] react
+- [ ] admin
+- [ ] messages
+- [ ] pages
+- [ ] styles
+- [ ] assets
+- [ ] scripts
+- [ ] masterdata
+- [ ] service-worker
 
 ## Comandos
 
