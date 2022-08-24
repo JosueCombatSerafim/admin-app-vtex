@@ -1,0 +1,10 @@
+{
+  "admin.app.example": {
+    "component": "Greeting",
+    "path": "/admin/app/m3/taxa-de-abandono-sku"
+  },
+  "admin.app.wishlist": {
+    "component": "WishList",
+    "path": "/admin/app/m3/wishlist"
+  }
+}

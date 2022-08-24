@@ -1,0 +1,13 @@
+[
+  {
+    "section": "customer",
+    "titleId": "admin/abandonedTax",
+    "path": "/admin/m3/taxa-de-abandono-sku"
+  },
+  {
+    "section": "customer",
+    "titleId": "admin/wishlist",
+    "path": "/admin/m3/wishlist"
+  }
+]
+

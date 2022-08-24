@@ -1,0 +1,21 @@
+{
+  "vendor": "cellarvinhos",
+  "name": "m3-custom-abandoned-cart-tax",
+  "version": "0.0.6",
+  "title": "m3-custom-abandoned-cart-tax",
+  "description": "m3-custom abandoned-cart-tax",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x",
+    "admin": "0.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x"
+  },
+  "registries": [
+    "smartcheckout"
+  ],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
