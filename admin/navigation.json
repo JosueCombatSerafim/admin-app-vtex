@@ -1,5 +1,23 @@
 [
   {
+    "section": "orders",
+    "titleId": "admin/example",
+    "subSection": "example",
+    "searchKeyWordsHelpers": "admin-example.navigation.search.kws",
+    "subSectionItems": [
+      {
+        "labelId": "admin/example1",
+        "path": "/admin/example",
+        "searchKeyWordsHelpers": "admin-example.navigation.table.search.kws"
+      },
+      {
+        "labelId": "admin/example2",
+        "path": "/admin/example2",
+        "searchKeyWordsHelpers": "admin-example.navigation.table.search.kws"
+      }
+    ]
+  },
+  {
     "section": "customer",
     "titleId": "admin/abandonedTax",
     "path": "/admin/m3/taxa-de-abandono-sku"
@@ -10,4 +28,3 @@
     "path": "/admin/m3/wishlist"
   }
 ]
-

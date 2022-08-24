@@ -1,6 +1,14 @@
 {
   "admin.app.example": {
-    "component": "Greeting",
+    "component": "AdminExample",
+    "path": "/admin/app/example"
+  },
+  "admin.app.example-detail": {
+    "component": "AdminExampleDetail",
+    "path": "/admin/app/example2"
+  },
+  "admin.app.abandoned-cart": {
+    "component": "AbandonedCart",
     "path": "/admin/app/m3/taxa-de-abandono-sku"
   },
   "admin.app.wishlist": {
