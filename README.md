@@ -1,6 +1,6 @@
 # Admin-App-Vtex
 
-## Template vtex => https://github.com/vtex-apps/admin-example 
+Template vtex => https://github.com/vtex-apps/admin-example 
 
 ## Comandos
 
