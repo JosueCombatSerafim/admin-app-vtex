@@ -5,4 +5,11 @@
 ## Comandos
 
 - Estar logado na conta e workspace desejado
-- vtex link
+- Rodar comando ```vtex link```
+
+## Configuração inicial
+
+- Declarar rotas do admin sempre em ```/admin/app/<route>```
+
+- Declarar o admin builder no manifest
+
